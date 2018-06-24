@@ -75,3 +75,9 @@
 * (('wait'))The solution is:
   * Include something before (\d\S+) like fooproj-((*(\d\S+)*))\.tar\.gz
 
+= Common mistake(4)
+
+* Not starting the version part of the regex with a digit.
+* (('wait'))The solution is:
+  * Use ((*\d*)) instead of ((*.*))
+

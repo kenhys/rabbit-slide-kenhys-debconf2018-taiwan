@@ -51,6 +51,11 @@
 * https://wiki.debian.org/debian/watch is the good start point.
 * There are many actual examples.
 
+= The typical examples
+
+* There are 8 use cases.
+  * Bitbucket, GitHub, Gitlab(Salsa), GitHub, Google Code, LaunchPad, PyPI, and Sourceforge.
+
 = Common mistakes
 
 * There are 8 common mistakes. What?

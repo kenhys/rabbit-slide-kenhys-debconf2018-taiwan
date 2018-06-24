@@ -94,3 +94,9 @@
 * (('wait'))The solution is:
   * Use uversionmangle like opts=uversionmangle=s/(\d)[_\.\-\+]?((RC|rc|pre|dev|beta|alpha)\d*)$/$1~$2/
 
+= Common mistake(7)
+
+* Not mangling Debian versions to remove the +dfsg.1 or +dfsg1 suffix.
+* (('wait'))The solution is:
+  * Use dversionmangle like opts=dversionmangle=s/\+(debian|dfsg|ds|deb)(\.?\d+)?$//
+

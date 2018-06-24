@@ -56,3 +56,10 @@
 * There are 8 common mistakes. What?
   * (('note: see: https://wiki.debian.org/debian/watch'))
 
+= Common mistakes(1)
+
+* Not escaping dots, which match any character.
+* (('wait'))The solution is:
+
+  * Use ((*\.*)) instead of ((*.*)) in the regex.
+

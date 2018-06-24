@@ -56,6 +56,12 @@
 * There are 8 use cases.
   * Bitbucket, GitHub, Gitlab(Salsa), GitHub, Google Code, LaunchPad, PyPI, and Sourceforge.
 
+= GitHub example
+
+  version=4
+  opts=filenamemangle=s/.+\/v?(\d\S+)\.tar\.gz/<project>-$1\.tar\.gz/ \
+    https://github.com/<user>/<project>/tags .*/?(\d{2}\.\d.\d)\.tar\.gz
+
 = Common mistakes
 
 * There are 8 common mistakes. What?

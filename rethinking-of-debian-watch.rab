@@ -69,3 +69,9 @@
 * (('wait'))The solution is:
   * Use ((*\.(?:zip|tgz|tbz|txz|(?:tar\.(?:gz|bz2|xz)))*))
 
+= Common mistake(3)
+
+* Not anchoring the version group at the right place.
+* (('wait'))The solution is:
+  * Include something before (\d\S+) like fooproj-((*(\d\S+)*))\.tar\.gz
+

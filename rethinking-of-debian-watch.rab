@@ -63,3 +63,9 @@
 
   * Use ((*\.*)) instead of ((*.*)) in the regex.
 
+= Common mistake(2)
+
+* A file extension regex that is not flexible enough.
+* (('wait'))The solution is:
+  * Use ((*\.(?:zip|tgz|tbz|txz|(?:tar\.(?:gz|bz2|xz)))*))
+

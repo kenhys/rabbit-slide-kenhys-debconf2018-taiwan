@@ -87,3 +87,10 @@
 * (('wait'))The solution is:
   * Use http://example.com/someproject/((*.**))/program-(\d\S+)\.tar\.gz instead of http://example.com/someproject/((*path/to/program/downloads*))/program-(\d\S+)\.tar\.gz
 
+= Common mistake(6)
+
+* Not mangling upstream versions that are alphas, betas or release candidates to make them sort before the final release.
+
+* (('wait'))The solution is:
+  * Use uversionmangle like opts=uversionmangle=s/(\d)[_\.\-\+]?((RC|rc|pre|dev|beta|alpha)\d*)$/$1~$2/
+

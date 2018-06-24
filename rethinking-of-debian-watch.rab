@@ -51,3 +51,8 @@
 * https://wiki.debian.org/debian/watch is the good start point.
 * There are many actual examples.
 
+= Common mistakes
+
+* There are 8 common mistakes. What?
+  * (('note: see: https://wiki.debian.org/debian/watch'))
+

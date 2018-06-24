@@ -115,6 +115,15 @@
 
 * Not enabling cryptographic signature verification when your upstream signs their releases with OpenPGP.
 
+= Motivation
+
+* It is okay to setup debian/watch, but...
+
+* Need to 
+
+= The debian watch statistics
+
+
 = Watch file is used?
 
   # image
@@ -134,6 +143,15 @@
   # relative-height = 100
   # src = images/debian-watch-hosting-top5-pie-graph.png
 
+= Most of them ...
+
+  # image
+  # relative-height = 100
+  # src = images/debian-watch-hosting-top5all-pie-graph.png
+
+= How about salsa.d.o?
+
+
 = Thought experiments d/watch
 
 * Simplify d/watch
@@ -151,3 +169,11 @@
   version=5
   type=github,owner=kenhys,project=fcitx-imlist
 
+* https://github.com/kenhys/fcitx-imlist
+
+= Conclusion
+
+* d/watch is well documented but a bit redundant
+* d/watch can be simplified by new d/watch rules
+* d/watch thought experiments works well to improve such a situation
+* What do you think?

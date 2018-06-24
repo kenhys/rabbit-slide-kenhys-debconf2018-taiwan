@@ -115,3 +115,22 @@
 
 * Not enabling cryptographic signature verification when your upstream signs their releases with OpenPGP.
 
+= Watch file is used?
+
+  # image
+  # relative-height = 100
+  # src = images/debian-watch-file-pie-graph.png
+
+
+= What version?
+
+  # image
+  # relative-height = 100
+  # src = images/debian-watch-version-pie-graph.png
+
+= Popular hosting?
+
+  # image
+  # relative-height = 100
+  # src = images/debian-watch-hosting-top5-pie-graph.png
+

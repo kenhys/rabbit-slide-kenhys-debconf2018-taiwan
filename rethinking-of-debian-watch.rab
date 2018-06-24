@@ -81,3 +81,9 @@
 * (('wait'))The solution is:
   * Use ((*\d*)) instead of ((*.*))
 
+= Common mistake(5)
+
+* Not being flexible enough in the path to the file.
+* (('wait'))The solution is:
+  * Use http://example.com/someproject/((*.**))/program-(\d\S+)\.tar\.gz instead of http://example.com/someproject/((*path/to/program/downloads*))/program-(\d\S+)\.tar\.gz
+

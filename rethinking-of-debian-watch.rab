@@ -100,3 +100,7 @@
 * (('wait'))The solution is:
   * Use dversionmangle like opts=dversionmangle=s/\+(debian|dfsg|ds|deb)(\.?\d+)?$//
 
+= Common mistake(8)
+
+* Not enabling cryptographic signature verification when your upstream signs their releases with OpenPGP.
+

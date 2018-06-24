@@ -134,3 +134,20 @@
   # relative-height = 100
   # src = images/debian-watch-hosting-top5-pie-graph.png
 
+= Thought experiments d/watch
+
+* Simplify d/watch
+* Cover most cases, not all
+
+= Required information
+
+* Hosting
+* Owner
+* Project
+
+= The new rule
+
+  # d/watch
+  version=5
+  type=github,owner=kenhys,project=fcitx-imlist
+

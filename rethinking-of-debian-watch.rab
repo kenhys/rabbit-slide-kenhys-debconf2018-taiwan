@@ -16,6 +16,7 @@
 = Agenda
 
 * Who am I?
+* Why I started to play with debian/watch?
 * Introduction about debian/watch
 * The debian/watch statistics
 * Thought experiments about debian/watch
@@ -24,6 +25,7 @@
 = Agenda
 
 * ((*Who am I?*))
+* Why I started to play with debian/watch?
 * Introduction about debian/watch
 * The debian/watch statistics
 * Thought experiments about debian/watch
@@ -38,6 +40,13 @@
 * Trackpoint fan
 
 = Agenda
+
+* Who am I?
+* ((*Why I started to play with debian/watch?*))
+* Introduction about debian/watch
+* The debian/watch statistics
+* Thought experiments about debian/watch
+* Conclusion
 
 * Who am I?
 * ((*Introduction about debian/watch*))

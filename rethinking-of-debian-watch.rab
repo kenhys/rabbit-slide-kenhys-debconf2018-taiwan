@@ -80,6 +80,11 @@
   annoyed us. Implementing redirector in qa.debian.org would improve
   this situation."
 
+= Motivation
+
+* Is there a way to improve such a situation?
+  * I'll look into d/watch a bit.
+
 * Who am I?
 * ((*Introduction about debian/watch*))
 * The debian/watch statistics

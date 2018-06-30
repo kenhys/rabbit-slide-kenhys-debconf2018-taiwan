@@ -48,6 +48,11 @@
 * Thought experiments about debian/watch
 * Conclusion
 
+= Why playing with d/watch?
+
+* "Need redirector for osdn.net"
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=899119
+
 * Who am I?
 * ((*Introduction about debian/watch*))
 * The debian/watch statistics

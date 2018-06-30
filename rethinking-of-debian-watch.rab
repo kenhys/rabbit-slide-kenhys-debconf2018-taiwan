@@ -61,6 +61,25 @@
   * pagemangle
   * downloadurlmangle
 
+= d/watch for fonts-sawarabi-mincho
+
+  version=4
+  opts="uversionmangle=s/-beta/~beta/;s/-rc/~rc/;s/-preview/~preview/, \
+  pagemangle=s%<osdn:file url="([^<]*)</osdn:file>%<a href="$1">$1</a>%g, \
+  downloadurlmangle=s%projects/sawarabi-fonts/downloads%frs/redir\.php?m=iij&f=sawarabi-fonts%g;s/xz\//xz/" \
+  https://osdn.net/projects/sawarabi-fonts/releases/rss \
+  https://osdn.net/projects/sawarabi-fonts/downloads/.*/sawarabi-mincho@ANY_VERSION@@ARCHIVE_EXT@/ debian uupdate
+
+= #899119
+
+  # blockquote
+  # title = #899119#5
+  Hideki Yamane:\n
+  "They sometimes changes download way to reduce download access
+  by preventing bot, so debian/watch file is complicated and it 
+  annoyed us. Implementing redirector in qa.debian.org would improve
+  this situation."
+
 * Who am I?
 * ((*Introduction about debian/watch*))
 * The debian/watch statistics

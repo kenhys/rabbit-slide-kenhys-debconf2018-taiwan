@@ -53,6 +53,14 @@
 * "Need redirector for osdn.net"
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=899119
 
+= d/watch for fonts-sawarabi-mincho
+
+* Combination with:
+
+  * uversionmangle
+  * pagemangle
+  * downloadurlmangle
+
 * Who am I?
 * ((*Introduction about debian/watch*))
 * The debian/watch statistics

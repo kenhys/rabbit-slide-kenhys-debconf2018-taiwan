@@ -85,8 +85,11 @@
 * Is there a way to improve such a situation?
   * I'll look into d/watch a bit.
 
+= Agenda
+
 * Who am I?
-* ((*Introduction about debian/watch*))
+* Why I started to play with debian/watch?
+* Introduction about debian/watch
 * The debian/watch statistics
 * Thought experiments about debian/watch
 * Conclusion

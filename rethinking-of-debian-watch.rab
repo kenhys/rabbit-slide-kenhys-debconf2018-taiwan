@@ -168,6 +168,12 @@
 * (('wait'))The solution is:
   * Support it!
 
+= Impression about d/watch
+
+* There are some pitfalls in d/watch
+* It is okay once d/watch is prepared
+* If you need to maintain more and more packages... (('&#x1f61e;'))
+
 = Motivation
 
 * It is okay to setup debian/watch, but...

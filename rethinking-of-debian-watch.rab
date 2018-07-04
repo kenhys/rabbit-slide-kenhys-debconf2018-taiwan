@@ -176,9 +176,9 @@
 
 = Motivation
 
-* It is okay to setup debian/watch, but...
+* After looking into d/watch, I feels like it could be more simplified format.
+* But even though I felt it, need to know much about it.
 
-* Need to 
 
 = The debian watch statistics
 

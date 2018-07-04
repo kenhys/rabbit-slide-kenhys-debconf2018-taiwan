@@ -179,6 +179,14 @@
 * After looking into d/watch, I feels like it could be more simplified format.
 * But even though I felt it, need to know much about it.
 
+= Agenda
+
+* Who am I?
+* Why I started to play with debian/watch?
+* Introduction about debian/watch
+* ((*The debian/watch statistics*))
+* Thought experiments about debian/watch
+* Conclusion
 
 = The debian watch statistics
 

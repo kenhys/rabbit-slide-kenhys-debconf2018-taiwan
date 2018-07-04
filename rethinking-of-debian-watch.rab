@@ -164,6 +164,8 @@
 = Common mistake(8)
 
 * Not enabling cryptographic signature verification when your upstream signs their releases with OpenPGP.
+* (('wait'))The solution is:
+  * Support it!
 
 = Motivation
 

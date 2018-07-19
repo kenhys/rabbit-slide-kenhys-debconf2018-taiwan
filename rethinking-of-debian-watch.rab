@@ -78,6 +78,25 @@
   https://osdn.net/projects/sawarabi-fonts/releases/rss \
   https://osdn.net/projects/sawarabi-fonts/downloads/.*/sawarabi-mincho@ANY_VERSION@@ARCHIVE_EXT@/ debian uupdate
 
+* Need to parse RSS!
+
+= uversionmangle?
+
+* uversionmangle=s/-beta/~beta/;s/-rc/~rc/;s/-preview/~preview/
+  * -beta (('&#x27a1;')) ~beta
+  * -rc (('&#x27a1;')) ~rc
+  * -preview (('&#x27a1;')) ~preview
+
+= pagemangle?
+
+* pagemangle=s%<osdn:file url="([^<]*)</osdn:file>%<a href="$1">$1</a>%g,
+  * Convert page content
+    * <osdn:file url="([^<]*)</osdn:file> (('&#x27a1;')) <a href="$1">$1</a>
+
+= downloadurlmangle?
+
+* downloadurlmangle=s%projects/sawarabi-fonts/downloads%frs/redir\.php?m=iij&f=sawarabi-fonts%g;s/xz\//xz/"
+
 = #899119
 
   # blockquote

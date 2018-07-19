@@ -220,6 +220,28 @@
 * Let's discuss based on statistics
 * Do you know current overview?
 
+= Collecting d/watch data
+
+* ((<URL:https://sources.debian.org/doc/api/>))
+  * API documentation about sources.d.o
+
+
+= Collecting package list
+
+* Access ((<URL:https://sources.debian.org/api/list>))
+  * Get list of packages
+
+= Collecting package info
+
+* Access ((<URL:https://sources.debian.org/api/src/groonga/>)) API
+  * Get suites information
+  * You can use this API collecting only sid package
+
+= Collecting raw url
+
+* Access https://sources.debian.org/api/src/groonga/latest/debian/watch/ API
+  * It returns as if https://sources.debian.org/api/src/groonga/8.0.4-1/debian/watch/
+
 = Watch file is used?
 
   # image

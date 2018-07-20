@@ -223,9 +223,9 @@
 
 = Collect d/watch data
 
-* ((<URL:https://sources.debian.org/doc/api/>))
-  * API documentation about sources.d.o
-
+* We can use the API!
+  * ((<URL:https://sources.debian.org/doc/api/>))
+    * API documentation about sources.d.o
 
 = Collect package list
 

@@ -253,6 +253,12 @@
   * Get raw content of d/watch
     * ((<URL:https://sources.debian.org//data/main/g/groonga/8.0.4-1/debian/watch>))
 
+= Processing collected data
+
+* Collect source packages in unstable
+* Collect d/watch if available
+* Analyze and Visualize data
+
 = Watch file is used?
 
   # image

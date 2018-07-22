@@ -352,6 +352,23 @@ TODO: graph
   version=5
   type=packages.groonga.org,owner=groonga,project=groonga
 
+= Redirector?
+
+* Require special prefix with
+  * codeplex/
+  * pypi/
+  * sf/
+  * scilab/
+  * coreboot/
+  * npmjs/
+  * ctan/
+  * luaforge/
+  * kde/
+  * mysql/
+  * track-hack/
+  * forge.puppetlabs/
+  * crates.io/
+
 = Conclusion
 
 * d/watch is well documented but a bit redundant

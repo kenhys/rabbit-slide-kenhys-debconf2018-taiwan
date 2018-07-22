@@ -369,6 +369,15 @@ TODO: graph
   * forge.puppetlabs/
   * crates.io/
 
+= Modify uscan
+
+* Add a patch to uscan.pl
+
+
+= How good enough d/watch 5 rule?
+
+* FIXME: Add graph to indicate version 5 experiments
+
 = Conclusion
 
 * d/watch is well documented but a bit redundant

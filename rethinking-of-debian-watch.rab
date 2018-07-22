@@ -327,6 +327,11 @@ TODO: graph
 * Uscan with current and modified one
 * Compare dehs result
 
+= Dehs?
+
+* Machine readable output of uscan
+* It's easy to detect regression
+
 = Conclusion
 
 * d/watch is well documented but a bit redundant

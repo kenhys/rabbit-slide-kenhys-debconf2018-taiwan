@@ -333,6 +333,16 @@ TODO: graph
 * It's easy to detect regression
 * Without regression, new rule has enough functionality!
 
+= Test case
+
+* New rule for Groonga
+
+= The new rule
+
+  # d/watch
+  version=5
+  type=packages.groonga.org,owner=groonga,project=groonga
+
 = Conclusion
 
 * d/watch is well documented but a bit redundant

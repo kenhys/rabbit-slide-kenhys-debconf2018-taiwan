@@ -375,6 +375,7 @@ TODO: graph
   * Bump version to 5
   * Add regular expression to parse a new rule
   * Assign mangle to $options to emulate
+  * Repeat above steps to support more patterns
 
 = How good enough d/watch 5 rule?
 

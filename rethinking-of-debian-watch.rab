@@ -340,7 +340,13 @@ TODO: graph
 * New rule for Groonga
   * The minior use case
 
-= The new rule
+= The new rule for GitHub
+
+  # d/watch
+  version=5
+  type=github.com,owner=kenhys,project=fcitx-imlist
+
+= The new rule for packages.groonga.org
 
   # d/watch
   version=5

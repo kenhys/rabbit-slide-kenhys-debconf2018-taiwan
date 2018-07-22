@@ -318,6 +318,15 @@ TODO: graph
 
 * Is new rule practical enough?
 * Lets's do experiment!
+
+= Steps to verify
+
+* Modify uscan which supports new rule
+* Download source package
+* Revert previous release to ready for uscan
+* Uscan with current and modified one
+* Compare dehs result
+
 = Conclusion
 
 * d/watch is well documented but a bit redundant

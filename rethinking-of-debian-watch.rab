@@ -369,7 +369,7 @@ TODO: graph
   * forge.puppetlabs/
   * crates.io/
 
-= Modify uscan
+= How to modify uscan
 
 * Add a patch to scripts/uscan.pl
   * Bump version to 5

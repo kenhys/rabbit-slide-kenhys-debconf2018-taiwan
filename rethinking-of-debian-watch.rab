@@ -371,7 +371,7 @@ TODO: graph
 
 = Modify uscan
 
-* Add a patch to uscan.pl
+* Add a patch to scripts/uscan.pl
   * Bump version to 5
   * Add regular expression to parse a new rule
   * Assign mangle to $options to emulate

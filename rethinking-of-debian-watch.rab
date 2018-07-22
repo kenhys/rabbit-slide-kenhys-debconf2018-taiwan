@@ -331,6 +331,7 @@ TODO: graph
 
 * Machine readable output of uscan
 * It's easy to detect regression
+* Without regression, new rule has enough functionality!
 
 = Conclusion
 

@@ -259,9 +259,20 @@
 * Collect d/watch if available
 * Analyze and Visualize data
 
-= Processing collected data
+= Utility to analyze d/watch
 
-TODO: system
+* How to analyze opts?
+  * Parse by regular expression?
+  * There is no easy way to parse it
+
+= Parsing opts in d/watch
+
+* perl-Parse-Debian-Watch
+  * Extract parser code from scripts/uscan.pl
+  * ((<URL:https://github.com/kenhys/perl-Parse-Debian-Watch.git>))
+* debsources-watch-crawler
+  * Crawling d/watch
+  * ((<URL:https://github.com/kenhys/debsources-watch-crawler.git>))
 
 = Watch file is used?
 

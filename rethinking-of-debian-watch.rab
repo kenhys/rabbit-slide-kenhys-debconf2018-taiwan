@@ -364,7 +364,7 @@ TODO: graph
   version=5
   type=github.com,owner=kenhys,project=fcitx-imlist
 
-= The new rule for packages.groonga.org
+= The new rule for packages.g.o
 
   # d/watch
   version=5

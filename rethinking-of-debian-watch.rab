@@ -270,6 +270,9 @@
 * perl-Parse-Debian-Watch
   * Extract parser code from scripts/uscan.pl
   * ((<URL:https://github.com/kenhys/perl-Parse-Debian-Watch.git>))
+
+= How to collect metadata?
+
 * debsources-watch-crawler
   * Crawling d/watch
   * ((<URL:https://github.com/kenhys/debsources-watch-crawler.git>))

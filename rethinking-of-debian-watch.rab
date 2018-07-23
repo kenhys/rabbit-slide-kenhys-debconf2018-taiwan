@@ -255,7 +255,7 @@
 
 = Processing collected data
 
-* Collect source packages in unstable
+* Collect source package list in unstable
 * Collect d/watch if available
 * Analyze and Visualize data
 

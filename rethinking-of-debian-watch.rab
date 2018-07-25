@@ -356,9 +356,11 @@ TODO: graph
 
 = Dehs?
 
-* Machine readable output of uscan
-* It's easy to detect regression
-* Without regression, new rule has enough functionality!
+* ((<URL:https://wiki.debian.org/DHES>))
+  * Debian External Health Status
+  * Machine readable output of uscan
+  * It's easy to detect regression
+  * Without regression, new rule has enough functionality!
 
 = Test case
 

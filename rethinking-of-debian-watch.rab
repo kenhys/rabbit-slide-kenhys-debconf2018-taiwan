@@ -96,6 +96,9 @@
 = downloadurlmangle?
 
 * downloadurlmangle=s%projects/sawarabi-fonts/downloads%frs/redir\.php?m=iij&f=sawarabi-fonts%g;s/xz\//xz/"
+  * Convert download url
+    * projects/sawarabi-fonts/downloads (('&#x27a1;')) frs/redir\.php?m=iij&f=sawarabi-fonts
+    * xz/ (('&#x27a1;')) xz
 
 = #899119
 

@@ -65,9 +65,9 @@
 
 * Combination with:
 
-  * uversionmangle
   * pagemangle
   * downloadurlmangle
+  * uversionmangle
 
 = d/watch for fonts-sawarabi-mincho
 
@@ -79,13 +79,6 @@
   https://osdn.net/projects/sawarabi-fonts/downloads/.*/sawarabi-mincho@ANY_VERSION@@ARCHIVE_EXT@/ debian uupdate
 
 * Need to parse RSS!
-
-= uversionmangle?
-
-* uversionmangle=s/-beta/~beta/;s/-rc/~rc/;s/-preview/~preview/
-  * -beta (('&#x27a1;')) ~beta
-  * -rc (('&#x27a1;')) ~rc
-  * -preview (('&#x27a1;')) ~preview
 
 = pagemangle?
 
@@ -99,6 +92,13 @@
   * Convert download url
     * projects/sawarabi-fonts/downloads (('&#x27a1;')) frs/redir\.php?m=iij&f=sawarabi-fonts
     * xz/ (('&#x27a1;')) xz
+
+= uversionmangle?
+
+* uversionmangle=s/-beta/~beta/;s/-rc/~rc/;s/-preview/~preview/
+  * -beta (('&#x27a1;')) ~beta
+  * -rc (('&#x27a1;')) ~rc
+  * -preview (('&#x27a1;')) ~preview
 
 = #899119
 

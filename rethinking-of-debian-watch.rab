@@ -35,10 +35,12 @@
 
 = Who am I?
 
-* Twitter/GitHub
-  * @kenhys
-* Debian "Monthly" contributer
-  * @kenhys-guest
+  # image
+  # relative-width = 10
+  # src = images/profile.png
+
+* Twitter/GitHub (@kenhys)
+* Debian "Monthly" contributer (@kenhys-guest)j
 * Working for ClearCode Inc.
 * ((*Trackpoint fan*))
 

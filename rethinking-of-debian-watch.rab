@@ -337,40 +337,55 @@ TODO: visualize
 
 = Frequently used opts?
 
-TODO: graph
+* Not used
+  * (('tag:xx-small'))bare: 0
+  * (('tag:xx-small'))nopasv: 0
+  * (('tag:xx-small'))hrefdecode: 0
+  * (('tag:xx-small'))pretty: 0
+  * (('tag:xx-small'))unzipopt: 0
 
-# Query by cli
-* bare: 0
-* repack: 491
-* component: 13
-* compression: 489
-* date:9
-* decompress: 18
-* dirversionmangle: 5
-* downloadurlmangle: 247
-* dversionmangle: 3921
-* filenamemangle: 4134
-* gitmode: 4
-* hrefdecode: 0
-* mode: 249
-* nopasv: 0
-* oversionmangle: 10
-* pagemangle: 31
-* passive: 30
-* pasv: 120
-* pgpmode: 175
-* pgpsigurlmangle: 1510
-* pretty: 0
-* repacksuffix: 1039
-* unzipopt: 0
-* user-agent: 3
-* uversionmangle: 3695
-* versionmangle: 11
+= Frequently used opts?
+
+* Rarely used
+  * (('tag:xx-small'))user-agent: 3
+  * (('tag:xx-small'))gitmode: 4
+  * (('tag:xx-small'))dirversionmangle: 5
+  * (('tag:xx-small'))date:9
+  * (('tag:xx-small'))oversionmangle: 10
+
+= Frequently used opts?
+
+* Rarely used
+  * (('tag:xx-small'))component: 13
+  * (('tag:xx-small'))decompress: 18
+  * (('tag:xx-small'))versionmangle: 11
+  * (('tag:xx-small'))passive: 30
+  * (('tag:xx-small'))pagemangle: 31
+
+= Frequently used opts?
+
+* Sometimes used
+  * (('tag:xx-small'))pasv: 120
+  * (('tag:xx-small'))pgpmode: 175
+  * (('tag:xx-small'))downloadurlmangle: 247
+  * (('tag:xx-small'))mode: 249
+  * (('tag:xx-small'))repack: 491
+  * (('tag:xx-small'))compression: 489
+
+= Frequently used opts?
+
+* Often used
+  * repacksuffix: 1039
+  * pgpsigurlmangle: 1510
+  * uversionmangle: 3695
+  * dversionmangle: 3921
+  * filenamemangle: 4134
 
 = Thought experiments d/watch
 
-* Simplify d/watch
-* Cover most cases, not all
+* Opts usage are very limited
+* Could be simplified d/watch?
+* Cover most cases, not all (kexclude edge cases)
 
 = Required information?
 

@@ -1,6 +1,6 @@
 ---
 id: debconf18-rethinking-of-debian-watch
-base_name: debconf18-rethinking-of-debian-watch
+base_name: presentation
 tags:
 - rabbit
 - debconf18

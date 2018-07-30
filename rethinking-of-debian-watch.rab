@@ -330,9 +330,10 @@ TODO: visualize
   # relative-height = 100
   # src = images/group-by-top5all-hosting.png
 
-= These graph indicates
+= These graph shows
 
-* If there is something good way to cover top 5, it is valuable to try.
+* 84% source packages already supports d/watch.
+* If there is something good way to cover top 5 hosting sites, it is valuable to try.
 
 = Frequently used opts?
 

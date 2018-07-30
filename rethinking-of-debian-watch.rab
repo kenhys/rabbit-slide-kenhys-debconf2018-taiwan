@@ -339,6 +339,25 @@ TODO: visualize
 
 TODO: graph
 
+# Query by cli
+* bare: 0
+* repack: 491
+* component: 13
+* compression: 489
+* date:9
+* decompress: 18
+* dirversionmangle: 5
+* downloadurlmangle: 247
+* dversionmangle: 3921
+* filenamemangle: 4134
+* gitmode: 4
+* hrefdecode: 0
+* mode: 249
+* nopasv: 0
+* oversionmangle: 10
+* pagemangle: 31
+* passive: 39
+
 = Thought experiments d/watch
 
 * Simplify d/watch

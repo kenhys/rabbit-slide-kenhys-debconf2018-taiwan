@@ -356,7 +356,16 @@ TODO: graph
 * nopasv: 0
 * oversionmangle: 10
 * pagemangle: 31
-* passive: 39
+* passive: 30
+* pasv: 120
+* pgpmode: 175
+* pgpsigurlmangle: 1510
+* pretty: 0
+* repacksuffix: 1039
+* unzipopt: 0
+* user-agent: 3
+* uversionmangle: 3695
+* versionmangle: 11
 
 = Thought experiments d/watch
 

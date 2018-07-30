@@ -385,7 +385,7 @@ TODO: visualize
 
 * Opts usage are very limited
 * Could be simplified d/watch?
-* Cover most cases, not all (kexclude edge cases)
+* Cover most cases, not all (exclude edge cases)
 
 = Required information?
 

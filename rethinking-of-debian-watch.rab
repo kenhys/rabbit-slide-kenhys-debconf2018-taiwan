@@ -410,7 +410,7 @@ TODO: visualize
 
 * Modify uscan which supports new rule
 * Download source package
-* Revert previous release to ready for uscan
+* Revert latest release for uscan
 * Uscan with current and modified one
 * Compare dehs result
 

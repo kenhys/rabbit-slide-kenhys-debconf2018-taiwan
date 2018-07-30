@@ -309,26 +309,26 @@ TODO: visualize
 
   # image
   # relative-height = 100
-  # src = images/debian-watch-file-pie-graph.png
+  # src = images/group-by-watch-file.png
 
 
 = What version?
 
   # image
   # relative-height = 100
-  # src = images/debian-watch-version-pie-graph.png
+  # src = images/group-by-watch-version.png
 
 = Popular hosting?
 
   # image
   # relative-height = 100
-  # src = images/debian-watch-hosting-top5-pie-graph.png
+  # src = images/group-by-top5-hosting.png
 
 = Top 5 covers 58%
 
   # image
   # relative-height = 100
-  # src = images/debian-watch-hosting-top5all-pie-graph.png
+  # src = images/group-by-top5all-hosting.png
 
 = These graph indicates
 

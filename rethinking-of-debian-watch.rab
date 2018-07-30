@@ -45,11 +45,13 @@
 = ClearCode Inc.
 
   # image
-  # relative-width = 70
+  # relative-width = 50
   # src = images/logo-combination-standard.svg
 
 * ((<URL:https://www.clear-code.com/>))
-* Go together maximizing value for customer and driving forward free software
+  * Go together maximizing value for customer and driving forward free software
+    * Supporting free software for corporate use
+    * System development which use free software
 
 = As a contributor
 

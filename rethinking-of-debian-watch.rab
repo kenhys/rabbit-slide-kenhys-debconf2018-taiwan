@@ -272,6 +272,12 @@
     * ((<URL:https://sources.debian.org/api/src/groonga/>))
   * You can use this API to collect only sid package
 
+= sources.d.o/api/src/groonga
+
+  # image
+  # relative-height = 100
+  # src = images/sources-d-o-api-src-groonga-zoom.png
+
 = Collect raw url
 
 * Access file info API

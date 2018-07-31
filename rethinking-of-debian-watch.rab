@@ -313,7 +313,7 @@
 
 * Use debsources-watch-crawler
   * ((<URL:https://github.com/kenhys/debsources-watch-crawler.git>))
-  * Crawling d/watch and store into Groonga database
+    * Crawling d/watch and store into Groonga database
 
 = Utility to analyze d/watch
 

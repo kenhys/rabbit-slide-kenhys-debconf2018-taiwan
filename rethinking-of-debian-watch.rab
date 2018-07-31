@@ -259,6 +259,12 @@
   * ((<URL:https://sources.debian.org/api/list>))
   * You can use this API to collect ((*source*)) package list
 
+= sources.d.o/api/list
+
+  # image
+  # relative-height = 100
+  # src = images/sources-d-o-api-list-zoom.png
+
 = Collect package info
 
 * Access package info API

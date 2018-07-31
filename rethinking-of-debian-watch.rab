@@ -270,7 +270,7 @@
 * Access package info API
   * Get suites information about package
     * ((<URL:https://sources.debian.org/api/src/groonga/>))
-  * You can use this API to collect only sid package
+  * You can use this API to collect a specfic release package (e.g. collects sid only)
 
 = sources.d.o/api/src/groonga
 

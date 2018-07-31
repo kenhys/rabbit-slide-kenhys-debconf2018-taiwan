@@ -297,6 +297,12 @@
   * Get raw content of d/watch
     * ((<URL:https://sources.debian.org/data/main/g/groonga/8.0.5-1/debian/watch>))
 
+= sources.d.o/.../debian/watch
+
+  # image
+  # relative-width = 100
+  # src = images/sources-d-o-api-groonga-debian-watch-zoom.png
+
 = Processing collected data
 
 * Collect source package list in unstable

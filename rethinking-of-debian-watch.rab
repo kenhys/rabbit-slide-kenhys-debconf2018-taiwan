@@ -361,7 +361,7 @@ TODO: visualize
   # relative-height = 100
   # src = images/group-by-top5all-hosting.png
 
-= These graph shows
+= These graphs show
 
 * 84% source packages already supports d/watch.
 * If there is something good way to cover top 5 hosting sites, it is valuable to try.

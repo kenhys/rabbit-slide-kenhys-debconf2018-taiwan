@@ -331,6 +331,11 @@
 
 TODO: visualize
 
+= NOTE
+
+* The data for statistics is snapshot in last week
+* Analyzed data may not be so accurate
+
 = All source packages?
 
 * 39,074 source packages exists in debian

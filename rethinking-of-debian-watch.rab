@@ -247,6 +247,12 @@
   * ((<URL:https://sources.debian.org/doc/api/>))
     * API documentation about sources.d.o
 
+= sources.d.o/doc/api/
+
+  # image
+  # relative-height = 100
+  # src = images/sources-d-o-api-documentation.png
+
 = Collect package list
 
 * Access package list API

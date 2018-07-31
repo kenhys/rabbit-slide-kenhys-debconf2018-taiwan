@@ -112,9 +112,10 @@
 = uversionmangle?
 
 * uversionmangle=s/-beta/~beta/;s/-rc/~rc/;s/-preview/~preview/
-  * -beta (('&#x27a1;')) ~beta
-  * -rc (('&#x27a1;')) ~rc
-  * -preview (('&#x27a1;')) ~preview
+  * Convert specific suffix
+    * -beta (('&#x27a1;')) ~beta
+    * -rc (('&#x27a1;')) ~rc
+    * -preview (('&#x27a1;')) ~preview
 
 = #899119
 

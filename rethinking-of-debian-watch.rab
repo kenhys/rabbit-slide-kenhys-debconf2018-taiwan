@@ -323,9 +323,9 @@
 
 = Parsing opts in d/watch
 
-* perl-Parse-Debian-Watch
-  * Extract parser code from scripts/uscan.pl
+* Use Parse::Debian::Watch
   * ((<URL:https://github.com/kenhys/perl-Parse-Debian-Watch.git>))
+    * Extracted parser code from scripts/uscan.pl
 
 = Analyzing system components
 

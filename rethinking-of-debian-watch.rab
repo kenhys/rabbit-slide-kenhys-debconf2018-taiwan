@@ -160,7 +160,7 @@
   opts=filenamemangle=s/.+\/v?(\d\S+)\.tar\.gz/<project>-$1\.tar\.gz/ \
     https://github.com/<user>/<project>/tags .*/?(\d{2}\.\d.\d)\.tar\.gz
 
-= Common mistakes
+= Common mistakes to avoid
 
 * There are 8 common mistakes. What?
   * (('note: see: https://wiki.debian.org/debian/watch'))
@@ -172,7 +172,7 @@
 
   * Use ((*\.*)) instead of ((*.*)) in the regex.
 
-= Common mistake(2)
+= Common mistakes(2)
 
 * A file extension regex that is not flexible enough.
 * (('wait'))The solution is:
@@ -235,7 +235,7 @@
 * Thought experiments about debian/watch
 * Conclusion
 
-= Why statistics?
+= Why do we use statistics?
 
 * Just the Idea may be fuzzy
 * Let's discuss based on the fact
@@ -343,7 +343,7 @@ TODO: visualize
   # src = images/group-by-watch-file.png
 
 
-= What version?
+= What version are you using?
 
   # image
   # relative-height = 100

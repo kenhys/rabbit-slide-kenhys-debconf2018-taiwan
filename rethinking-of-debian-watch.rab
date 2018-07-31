@@ -285,6 +285,12 @@
     * ((<URL:https://sources.debian.org/api/src/groonga/latest/debian/watch/>))
     * It returns the result of https://sources.debian.org/api/src/groonga/((*8.0.4-1*))/debian/watch/
 
+= sources.d.o/.../debian/watch
+
+  # image
+  # relative-height = 90
+  # src = images/sources-d-o-api-src-groonga-latest-debian-watch-zoom.png
+
 = Collect d/watch
 
 * Access file content

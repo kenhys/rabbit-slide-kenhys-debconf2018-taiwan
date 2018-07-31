@@ -99,20 +99,20 @@
 = pagemangle?
 
 * pagemangle=s%<osdn:file url="([^<]*)</osdn:file>%<a href="$1">$1</a>%g,
-  * Convert page content
+  * Convert a page content
     * <osdn:file url="([^<]*)</osdn:file> (('&#x27a1;')) <a href="$1">$1</a>
 
 = downloadurlmangle?
 
 * downloadurlmangle=s%projects/sawarabi-fonts/downloads%frs/redir\.php?m=iij&f=sawarabi-fonts%g;s/xz\//xz/"
-  * Convert download url
+  * Convert a download url
     * projects/sawarabi-fonts/downloads (('&#x27a1;')) frs/redir\.php?m=iij&f=sawarabi-fonts
     * xz/ (('&#x27a1;')) xz
 
 = uversionmangle?
 
 * uversionmangle=s/-beta/~beta/;s/-rc/~rc/;s/-preview/~preview/
-  * Convert specific suffix
+  * Convert a specific suffix
     * -beta (('&#x27a1;')) ~beta
     * -rc (('&#x27a1;')) ~rc
     * -preview (('&#x27a1;')) ~preview

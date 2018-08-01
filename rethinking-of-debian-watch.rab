@@ -504,7 +504,6 @@ TODO: visualize
 
 = The new rule for OSDN
 
-  # d/watch
   version=5
   type=osdn.net,owner=sawarabi-fonts,project=sawarabi-mincho
 

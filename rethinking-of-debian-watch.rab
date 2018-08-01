@@ -499,7 +499,6 @@ TODO: visualize
 
 = The new rule for GitHub
 
-  # d/watch
   version=5
   type=github.com,owner=kenhys,project=fcitx-imlist
 

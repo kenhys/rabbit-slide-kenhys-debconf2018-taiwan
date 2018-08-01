@@ -448,7 +448,18 @@ TODO: visualize
   version=5
   type=github,owner=kenhys,project=fcitx-imlist
 
-* https://github.com/kenhys/fcitx-imlist
+* e.g. ((<URL:https://github.com/kenhys/fcitx-imlist>))
+
+= Pros
+
+* Simplicity
+* It avoids pitfalls by common mistakes which is listed in wiki.d.o
+
+= Cons
+
+* It may lack the functionality in contrast to existing rules
+  * The upstream uses minor hosting site, it can't migrate to the new rule
+* It needs to update existing d/watch if you want
 
 = Experiments
 

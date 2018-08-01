@@ -458,7 +458,7 @@ TODO: visualize
 
 = Pros
 
-* Simplicity
+* Simplicity (Readability & Maintenancebility)
 * It is flexible even though download url is changed (not domain change)
 * It avoids pitfalls by common mistakes which is listed in wiki.d.o
 

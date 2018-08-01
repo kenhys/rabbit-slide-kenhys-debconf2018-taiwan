@@ -444,9 +444,9 @@ TODO: visualize
 = Steps to verify
 
 * Modify uscan which supports new rule
-* Download source package
-* Revert latest release for uscan
-* Uscan with current and modified one
+* Download the source package
+* Revert to the previous release for uscan
+* Uscan with current and modified rule
 * Compare dehs result
 
 = Dehs?

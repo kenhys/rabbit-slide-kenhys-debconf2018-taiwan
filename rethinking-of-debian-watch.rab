@@ -521,7 +521,7 @@ TODO: visualize
 
 = Conclusion
 
-* d/watch is well documented but a bit redundant
-* d/watch can be simplified by new d/watch rules
-* d/watch thought experiments works well to improve such a situation
+* There is a bit redundant case in d/watch
+* d/watch can be simplified by new d/watch rule
+  * But not fully verified yet. It Needs more tests!
 * What do you think?

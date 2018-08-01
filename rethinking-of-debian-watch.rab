@@ -515,9 +515,9 @@ TODO: visualize
   * Assign mangle to $options to emulate
   * Repeat above steps to support more patterns
 
-= How good enough d/watch 5 rule?
+= How good enough new d/watch rule?
 
-* FIXME: Add graph to indicate version 5 experiments
+* DEMO
 
 = Conclusion
 

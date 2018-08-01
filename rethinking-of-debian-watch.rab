@@ -484,11 +484,11 @@ TODO: visualize
 
 = Dehs?
 
-* ((<URL:https://wiki.debian.org/DHES>))
-  * Debian External Health Status
+* Debian External Health Status
+  * ((<URL:https://wiki.debian.org/DHES>))
   * Machine readable output of uscan
-  * It's easy to detect regression
-  * Without regression, new rule has enough functionality!
+    * It's easy to detect regression
+    * Without regression, new rule has enough functionality!
 
 = Test case
 

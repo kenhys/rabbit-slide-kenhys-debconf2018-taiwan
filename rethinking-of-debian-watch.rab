@@ -507,23 +507,6 @@ TODO: visualize
   version=5
   type=osdn.net,owner=sawarabi-fonts,project=sawarabi-mincho
 
-= Redirector?
-
-* Require special prefix with
-  * codeplex/
-  * pypi/
-  * sf/
-  * scilab/
-  * coreboot/
-  * npmjs/
-  * ctan/
-  * luaforge/
-  * kde/
-  * mysql/
-  * track-hack/
-  * forge.puppetlabs/
-  * crates.io/
-
 = How to modify uscan
 
 * Add a patch to scripts/uscan.pl

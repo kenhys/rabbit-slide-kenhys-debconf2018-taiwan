@@ -443,7 +443,13 @@ TODO: visualize
 * Owner
 * Project
 
-= The new rule idea
+= The new syntax idea
+
+* Hosting (('&#x27a1;')) type=...
+* Owner (('&#x27a1;')) owner=...
+* Project (('&#x27a1;')) project=...
+
+= e.g The new rule
 
   version=5
   type=github,owner=kenhys,project=fcitx-imlist
@@ -453,6 +459,7 @@ TODO: visualize
 = Pros
 
 * Simplicity
+* It is flexible even though download url is changed (not domain change)
 * It avoids pitfalls by common mistakes which is listed in wiki.d.o
 
 = Cons

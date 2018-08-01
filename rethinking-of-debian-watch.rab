@@ -376,51 +376,58 @@ TODO: visualize
 
 = What option is frequently used?
 
-= Frequently used opts?
-
 * Not used
-  * (('tag:xx-small'))bare: 0
-  * (('tag:xx-small'))nopasv: 0
-  * (('tag:xx-small'))hrefdecode: 0
-  * (('tag:xx-small'))pretty: 0
-  * (('tag:xx-small'))unzipopt: 0
-
-= Frequently used opts?
-
 * Rarely used
-  * (('tag:xx-small'))user-agent: 3
-  * (('tag:xx-small'))gitmode: 4
-  * (('tag:xx-small'))dirversionmangle: 5
-  * (('tag:xx-small'))date:9
-  * (('tag:xx-small'))oversionmangle: 10
-
-= Frequently used opts?
-
-* Rarely used
-  * (('tag:xx-small'))component: 13
-  * (('tag:xx-small'))decompress: 18
-  * (('tag:xx-small'))versionmangle: 11
-  * (('tag:xx-small'))passive: 30
-  * (('tag:xx-small'))pagemangle: 31
-
-= Frequently used opts?
-
-* Sometimes used
-  * (('tag:xx-small'))pasv: 120
-  * (('tag:xx-small'))pgpmode: 175
-  * (('tag:xx-small'))downloadurlmangle: 247
-  * (('tag:xx-small'))mode: 249
-  * (('tag:xx-small'))repack: 491
-  * (('tag:xx-small'))compression: 489
-
-= Frequently used opts?
-
+* Somtimes used
 * Often used
-  * repacksuffix: 1039
-  * pgpsigurlmangle: 1510
-  * uversionmangle: 3695
-  * dversionmangle: 3921
-  * filenamemangle: 4134
+
+= Not used option
+
+* bare: 0
+* nopasv: 0
+* hrefdecode: 0
+* pretty: 0
+* unzipopt: 0
+
+= Rarely used
+
+* user-agent: 3
+* gitmode: 4
+* dirversionmangle: 5
+* date:9
+* oversionmangle: 10
+
+= Rarely used (2)
+
+* component: 13
+* decompress: 18
+* versionmangle: 11
+* passive: 30
+* pagemangle: 31
+
+= Sometimes used
+
+* pasv: 120
+* pgpmode: 175
+* downloadurlmangle: 247
+* mode: 249
+* repack: 491
+* compression: 489
+
+= Often used
+
+* repacksuffix: 1039
+* pgpsigurlmangle: 1510
+* uversionmangle: 3695
+* dversionmangle: 3921
+* filenamemangle: 4134
+
+= What is the frequently used?
+
+  # image
+  # relative-height = 100
+  # src = images/opts_frequency.png
+
 
 = Thought experiments d/watch
 

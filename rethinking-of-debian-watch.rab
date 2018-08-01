@@ -431,9 +431,11 @@ TODO: visualize
 
 = Thought experiments d/watch
 
-* Opts usage are very limited
+* The facts
+  * Top 5 upstream hosting sites occupy 58%
+  * Opts option usage is very limited
 * Could be simplified d/watch?
-* Cover most cases, not all (exclude edge cases)
+  * Cover most cases, not all (exclude edge cases)
 
 = Required information?
 

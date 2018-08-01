@@ -464,8 +464,9 @@ TODO: visualize
 
 = Cons
 
+* It needs to fix uscan for each hosting sites
+  * The upstream uses minor hosting site, it can't migrate to the new rule until uscan supports
 * It may lack the functionality in contrast to existing rules
-  * The upstream uses minor hosting site, it can't migrate to the new rule
 * It needs to update existing d/watch if you want
 
 = Experiments

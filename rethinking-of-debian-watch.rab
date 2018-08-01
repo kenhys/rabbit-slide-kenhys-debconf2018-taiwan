@@ -445,7 +445,6 @@ TODO: visualize
 
 = The new rule idea
 
-  # d/watch
   version=5
   type=github,owner=kenhys,project=fcitx-imlist
 

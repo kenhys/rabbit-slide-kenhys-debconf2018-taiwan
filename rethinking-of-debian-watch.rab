@@ -476,11 +476,11 @@ TODO: visualize
 
 = Steps to verify
 
-* Modify uscan which supports new rule
-* Download the source package
-* Revert to the previous release for uscan
-* Uscan with current and modified rule
-* Compare dehs result
+* 1. Modify uscan which supports new rule
+* 2. Download the source package
+* 3. Revert to the previous release for uscan
+* 4. Uscan with current and modified rule
+* 5. Compare dehs result
 
 = Dehs?
 

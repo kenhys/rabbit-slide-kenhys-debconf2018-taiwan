@@ -178,38 +178,38 @@
 * (('wait'))The solution is:
   * Use ((*\.(?:zip|tgz|tbz|txz|(?:tar\.(?:gz|bz2|xz)))*))
 
-= Common mistake(3)
+= Common mistakes(3)
 
 * Not anchoring the version group at the right place
 * (('wait'))The solution is:
   * Include something before (\d\S+) like fooproj-((*(\d\S+)*))\.tar\.gz
 
-= Common mistake(4)
+= Common mistakes(4)
 
 * Not starting the version part of the regex with a digit
 * (('wait'))The solution is:
   * Use ((*\d*)) instead of ((*.*))
 
-= Common mistake(5)
+= Common mistakes(5)
 
 * Not being flexible enough in the path to the file
 * (('wait'))The solution is:
   * Use http://example.com/someproject/((*.**))/program-(\d\S+)\.tar\.gz instead of http://example.com/someproject/((*path/to/program/downloads*))/program-(\d\S+)\.tar\.gz
 
-= Common mistake(6)
+= Common mistakes(6)
 
 * Not mangling upstream versions that are alphas, betas or release candidates to make them sort before the final release
 
 * (('wait'))The solution is:
   * Use uversionmangle like opts=uversionmangle=s/(\d)[_\.\-\+]?((RC|rc|pre|dev|beta|alpha)\d*)$/$1~$2/
 
-= Common mistake(7)
+= Common mistakes(7)
 
 * Not mangling Debian versions to remove the +dfsg.1 or +dfsg1 suffix
 * (('wait'))The solution is:
   * Use dversionmangle like opts=dversionmangle=s/\+(debian|dfsg|ds|deb)(\.?\d+)?$//
 
-= Common mistake(8)
+= Common mistakes(8)
 
 * Not enabling cryptographic signature verification when your upstream signs their releases with OpenPGP
 * (('wait'))The solution is:

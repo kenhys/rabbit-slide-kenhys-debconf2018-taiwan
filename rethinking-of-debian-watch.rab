@@ -452,7 +452,7 @@ TODO: visualize
 = e.g The new rule
 
   version=5
-  type=github,owner=kenhys,project=fcitx-imlist
+  type=github.com,owner=kenhys,project=fcitx-imlist
 
 * e.g. ((<URL:https://github.com/kenhys/fcitx-imlist>))
 

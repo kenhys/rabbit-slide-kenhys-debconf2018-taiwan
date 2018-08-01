@@ -494,7 +494,7 @@ TODO: visualize
 
 * New rule for GitHub
   * The typical use case
-* New rule for Groonga
+* New rule for OSDN
   * The minior use case
 
 = The new rule for GitHub
@@ -503,11 +503,11 @@ TODO: visualize
   version=5
   type=github.com,owner=kenhys,project=fcitx-imlist
 
-= The new rule for packages.g.o
+= The new rule for OSDN
 
   # d/watch
   version=5
-  type=packages.groonga.org,owner=groonga,project=groonga
+  type=osdn.net,owner=sawarabi-fonts,project=sawarabi-mincho
 
 = Redirector?
 

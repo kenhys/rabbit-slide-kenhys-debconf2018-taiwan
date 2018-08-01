@@ -146,8 +146,8 @@
 = Introduction about debian/watch
 
 * Used to check for newer versions of upstream software
-* https://wiki.debian.org/debian/watch is the good start point.
-* There are many actual examples.
+* https://wiki.debian.org/debian/watch is the good start point
+* There are many actual examples
 
 = The typical examples
 

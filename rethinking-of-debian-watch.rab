@@ -296,11 +296,11 @@
   # relative-width = 100
   # src = images/sources-d-o-api-groonga-debian-watch-zoom.png
 
-= Processing collected data
+= We are ready to collect data
 
-* Collect source package list in unstable
-* Collect d/watch if available
-* Analyze and Visualize data
+* Collect source package list in unstable (API)
+* Collect each d/watch if available (API)
+* Analyze and Visualize data (Task)
 
 = How to collect it?
 

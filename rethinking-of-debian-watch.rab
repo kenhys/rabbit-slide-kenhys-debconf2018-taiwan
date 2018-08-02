@@ -528,4 +528,4 @@
 * There is a bit redundant case in d/watch
 * d/watch can be simplified by new d/watch rule
   * But not fully verified yet. It needs more testing!
-* What do you think?
+* Feedback are welcome!

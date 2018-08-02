@@ -241,7 +241,7 @@
   * ((<URL:https://sources.debian.org/doc/api/>))
     * API documentation about sources.d.o
 
-= sources.d.o/doc/api/
+= sources.d.o API documentation
 
   # image
   # relative-height = 100
@@ -253,7 +253,7 @@
   * ((<URL:https://sources.debian.org/api/list>))
   * You can use this API to collect ((*source*)) package list
 
-= sources.d.o/api/list
+= e.g. source package list
 
   # image
   # relative-height = 100
@@ -266,7 +266,7 @@
     * ((<URL:https://sources.debian.org/api/src/groonga/>))
   * You can use this API to collect a specfic release package (e.g. collects sid only)
 
-= sources.d.o/api/src/groonga
+= e.g. Groonga package info
 
   # image
   # relative-height = 100
@@ -279,7 +279,7 @@
     * ((<URL:https://sources.debian.org/api/src/groonga/latest/debian/watch/>))
     * It returns the result of https://sources.debian.org/api/src/groonga/((*8.0.5-1*))/debian/watch/
 
-= sources.d.o/.../debian/watch
+= e.g. Groonga d/watch raw url
 
   # image
   # relative-height = 90
@@ -291,7 +291,7 @@
   * Get raw content of d/watch
     * ((<URL:https://sources.debian.org/data/main/g/groonga/8.0.5-1/debian/watch>))
 
-= sources.d.o/.../debian/watch
+= e.g. Groonga d/watch
 
   # image
   # relative-width = 100

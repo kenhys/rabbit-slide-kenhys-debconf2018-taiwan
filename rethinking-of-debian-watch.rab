@@ -499,6 +499,7 @@
   * The typical use case
 * (('del:New rule for OSDN'))
   * The minior use case
+  * It needs more work to verify (Currently dehs output is broken)
 
 = The new rule for GitHub
 

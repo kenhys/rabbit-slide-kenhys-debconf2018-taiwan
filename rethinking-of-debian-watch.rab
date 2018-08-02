@@ -508,11 +508,6 @@
   version=5
   type=github.com,owner=kenhys,project=fcitx-imlist
 
-= The new rule for OSDN
-
-  version=5
-  type=osdn.net,owner=sawarabi-fonts,project=sawarabi-mincho
-
 = How to modify uscan
 
 * Add a patch to scripts/uscan.pl

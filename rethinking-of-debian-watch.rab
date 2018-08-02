@@ -308,12 +308,6 @@
   * ((<URL:https://github.com/kenhys/debsources-watch-crawler.git>))
     * Crawling d/watch and store into Groonga database
 
-= Utility to analyze d/watch
-
-* How to analyze opts?
-  * Parse by regular expression?
-  * There is no easy way to parse it
-
 = Parsing opts in d/watch
 
 * Use Parse::Debian::Watch

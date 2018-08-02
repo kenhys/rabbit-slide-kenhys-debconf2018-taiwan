@@ -454,16 +454,23 @@
 
 = Pros
 
-* Simplicity (Readability & Maintenancebility)
-* It is flexible even though download url is changed (not domain change)
-* It avoids pitfalls by common mistakes which is listed in wiki.d.o
+* for maintainer
+  * Simplicity (Readability & Maintenancebility for d/watch maintainer)
+  * It is flexible even though download url is changed (not domain change)
+  * It avoids pitfalls by common mistakes which is listed in wiki.d.o
 
 = Cons
 
-* It needs to fix uscan for each hosting sites
-  * The upstream uses minor hosting site, it can't migrate to the new rule until uscan supports
-* It may lack the functionality in contrast to existing rules
-* It needs to update existing d/watch if you want
+* for developer
+  * It needs to fix uscan for each hosting sites
+    * The upstream uses minor hosting site, it can't migrate to the new rule until uscan supports
+  * It may lack the functionality in contrast to existing rules
+  * Traditinal and new style are needed to maitain
+
+= Cons
+
+* for maintainer
+  * It needs to update existing d/watch if you want
 
 = Experiments
 

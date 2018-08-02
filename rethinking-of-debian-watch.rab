@@ -213,10 +213,11 @@
 * It is okay once d/watch is prepared
 * If you need to maintain more and more packages... (('&#x1f61e;'))
 
-= Motivation
+= Motivation again
 
-* After looking into d/watch, I felt that it could be more simplified format
-* But even though I felt it, I couldn't prove the idea
+* Reguar expression is powerful tool for us, but there is a case that it is too comprehensive to solve the problem
+* It could be more simplified format
+* Even though I felt it, I couldn't prove the idea
 
 = Agenda
 

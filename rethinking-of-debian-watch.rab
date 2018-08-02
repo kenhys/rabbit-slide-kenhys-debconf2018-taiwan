@@ -215,7 +215,7 @@
 
 = Motivation again
 
-* Reguar expression is powerful tool for us, but there is a case that it is too comprehensive to solve the problem
+* Regular expression is a powerful tool for us, but there is a case that it is too comprehensive to solve the problem
 * It could be more simplified format
 * Even though I felt it, I couldn't prove the idea
 

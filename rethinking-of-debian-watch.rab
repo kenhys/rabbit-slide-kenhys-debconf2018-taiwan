@@ -423,8 +423,8 @@
 * The facts
   * Top 5 upstream hosting sites occupy 58%
   * Opts option usage is very limited
-* Could be simplified d/watch?
-  * Cover most cases, not all (exclude edge cases)
+* The estimations
+  * We can simplify d/watch for specific sites
 
 = Required information?
 

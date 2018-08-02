@@ -529,3 +529,12 @@
 * d/watch can be simplified by new d/watch rule
   * But not fully verified yet. It needs more testing!
 * Feedback is welcome!
+
+= Q. What about fakeupstream.cgi?
+
+* fakeupstream.cgi returns only list of releases, so it is not useful to simplify the rule
+
+= Q. What about redirector?
+
+* Yes, you are right. But it needs to be supported in server side and uscan side
+* The new rule only requires to implemented in uscan

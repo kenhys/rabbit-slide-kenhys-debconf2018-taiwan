@@ -168,51 +168,51 @@
 = Common mistakes(1)
 
 * Not escaping dots, which match any character
-* (('wait'))The solution is:
+* The solution is:
 
   * Use ((*\.*)) instead of ((*.*)) in the regex
 
 = Common mistakes(2)
 
 * A file extension regex that is not flexible enough
-* (('wait'))The solution is:
+* The solution is:
   * Use ((*\.(?:zip|tgz|tbz|txz|(?:tar\.(?:gz|bz2|xz)))*))
 
 = Common mistakes(3)
 
 * Not anchoring the version group at the right place
-* (('wait'))The solution is:
+* The solution is:
   * Include something before (\d\S+) like fooproj-((*(\d\S+)*))\.tar\.gz
 
 = Common mistakes(4)
 
 * Not starting the version part of the regex with a digit
-* (('wait'))The solution is:
+* The solution is:
   * Use ((*\d*)) instead of ((*.*))
 
 = Common mistakes(5)
 
 * Not being flexible enough in the path to the file
-* (('wait'))The solution is:
+* The solution is:
   * Use http://example.com/someproject/((*.**))/program-(\d\S+)\.tar\.gz instead of http://example.com/someproject/((*path/to/program/downloads*))/program-(\d\S+)\.tar\.gz
 
 = Common mistakes(6)
 
 * Not mangling upstream versions that are alphas, betas or release candidates to make them sort before the final release
 
-* (('wait'))The solution is:
+* The solution is:
   * Use uversionmangle like opts=uversionmangle=s/(\d)[_\.\-\+]?((RC|rc|pre|dev|beta|alpha)\d*)$/$1~$2/
 
 = Common mistakes(7)
 
 * Not mangling Debian versions to remove the +dfsg.1 or +dfsg1 suffix
-* (('wait'))The solution is:
+* The solution is:
   * Use dversionmangle like opts=dversionmangle=s/\+(debian|dfsg|ds|deb)(\.?\d+)?$//
 
 = Common mistakes(8)
 
 * Not enabling cryptographic signature verification when your upstream signs their releases with OpenPGP
-* (('wait'))The solution is:
+* The solution is:
   * Support it!
 
 = Impression about d/watch

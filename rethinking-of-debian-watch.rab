@@ -438,6 +438,15 @@
 * Owner (('&#x27a1;')) owner=...
 * Project (('&#x27a1;')) project=...
 
+= e.g The old rule
+
+  version=4
+
+  opts=filenamemangle=s/.+\/v?(\d\S*)\.tar\.gz/fcitx-imlist-$1\.tar\.gz/ \
+    https://github.com/kenhys/fcitx-imlist/tags .*/v?(\d\S*)\.tar\.gz
+
+* e.g. ((<URL:https://github.com/kenhys/fcitx-imlist>))
+
 = e.g The new rule
 
   version=5

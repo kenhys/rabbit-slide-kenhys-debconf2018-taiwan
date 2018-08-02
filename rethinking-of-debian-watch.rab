@@ -483,7 +483,7 @@
 * 2. Download the source package
 * 3. Revert to the previous release for uscan
 * 4. Uscan with current and modified rule
-* 5. Compare dehs result
+* 5. Compare ((*dehs*)) result
 
 = Dehs?
 

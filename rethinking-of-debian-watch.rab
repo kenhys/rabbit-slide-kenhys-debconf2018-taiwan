@@ -513,6 +513,7 @@
   * Add regular expression to parse a new rule
   * Assign mangle to $options to emulate
   * Repeat above steps to support more patterns
+  * ((<URL:https://salsa.debian.org/kenhys-guest/devscripts/tree/add-type-rule>))
 
 = How good enough new d/watch rule?
 

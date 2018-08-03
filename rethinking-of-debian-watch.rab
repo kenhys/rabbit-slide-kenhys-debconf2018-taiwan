@@ -429,9 +429,10 @@
 
 = Required information?
 
-* Hosting
-* Owner
-* Project
+* Some information to be parsed
+  * Hosting
+  * Owner
+  * Project
 
 = The new syntax idea
 

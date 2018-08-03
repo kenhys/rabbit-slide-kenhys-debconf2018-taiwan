@@ -15,6 +15,11 @@
 : theme
   .
 
+= In this talk
+
+* Current d/watch file is complicated
+  * (('&#x27a1;')) Update to new format (v5) can solve it
+
 = Agenda
 
 * Who I am?
@@ -39,6 +44,7 @@
   # relative-width = 10
   # src = images/profile.png
 
+* Kentaro Hayashi <kenhys@gmail.com>
 * Twitter/GitHub (@kenhys)
 * Debian contributor (@kenhys-guest)
 * ((*Trackpoint fan*)) - soft dome user

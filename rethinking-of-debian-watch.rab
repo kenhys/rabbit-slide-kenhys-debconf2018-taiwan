@@ -347,17 +347,17 @@
   # relative-height = 100
   # src = images/group-by-watch-version.png
 
+= Top 5 hosting covers 58%
+
+  # image
+  # relative-height = 100
+  # src = images/group-by-top5all-hosting.png
+
 = Popular hosting?
 
   # image
   # relative-height = 100
   # src = images/group-by-top5-hosting.png
-
-= Top 5 covers 58%
-
-  # image
-  # relative-height = 100
-  # src = images/group-by-top5all-hosting.png
 
 = These graphs show
 

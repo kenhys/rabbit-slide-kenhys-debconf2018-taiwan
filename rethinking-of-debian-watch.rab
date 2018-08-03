@@ -362,7 +362,7 @@
 = These graphs show
 
 * 84% source packages already support d/watch.
-* If there is something good way to cover top 5 hosting sites, it is valuable to try.
+* It seems that there is a room for improvement for top 5 hosting sites
 
 = What option is frequently used?
 
@@ -426,6 +426,7 @@
   * Opts option usage is very limited
 * The estimations
   * We can simplify d/watch for specific sites
+TODO:
 
 = Required information?
 

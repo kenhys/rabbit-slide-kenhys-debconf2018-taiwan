@@ -441,14 +441,14 @@
   * Owner (('&#x27a1;')) owner=...
   * Project (('&#x27a1;')) project=...
 
-= e.g The old rule
+= e.g Diff between old and new rule	
 
-  version=4
-
-  opts=filenamemangle=s/.+\/v?(\d\S*)\.tar\.gz/fcitx-imlist-$1\.tar\.gz/ \
-    https://github.com/kenhys/fcitx-imlist/tags .*/v?(\d\S*)\.tar\.gz
-
-* e.g. ((<URL:https://github.com/kenhys/fcitx-imlist>))
+  -version=4
+  +version=5
+ 
+  -opts=filenamemangle=s/.+\/v?(\d\S*)\.tar\.gz/fcitx-imlist-$1\.tar\.gz/
+  -  https://github.com/kenhys/fcitx-imlist/tags .*/v?(\d\S*)\.tar\.gz
+  +type=github.com,owner=kenhys,project=fcitx-imlist
 
 = e.g The new rule
 

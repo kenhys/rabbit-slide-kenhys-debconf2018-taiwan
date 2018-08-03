@@ -238,9 +238,9 @@
 
 = Collect d/watch data
 
-* We can use the API!
+* We have no data to judge
+* But, we can use the API!
   * ((<URL:https://sources.debian.org/doc/api/>))
-    * API documentation about sources.d.o
 
 = sources.d.o API documentation
 

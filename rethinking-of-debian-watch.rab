@@ -134,7 +134,7 @@
 
 = Motivation
 
-* It seems that it is too complicated
+* It seems that sometimes d/watch file is ((*too complicated*))
   * I'll look into d/watch a bit
 
 = Agenda
@@ -154,7 +154,7 @@
 
 = The typical examples
 
-* There are 8 use cases
+* There are 8 examples
   * Bitbucket, GitHub, Gitlab(Salsa), Google Code, LaunchPad, PyPI, and Sourceforge
 
 = Common mistakes to avoid

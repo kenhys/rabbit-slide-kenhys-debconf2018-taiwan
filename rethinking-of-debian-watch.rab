@@ -460,22 +460,17 @@
 = Pros
 
 * for maintainer
-  * Simplicity (Readability & Maintenancebility for d/watch maintainer)
+  * Easy to maitain
   * It is flexible even though download url is changed (not domain change)
   * It avoids pitfalls by common mistakes which is listed in wiki.d.o
 
 = Cons
 
-* for developer
+* for uscan developer
   * It needs to fix uscan for each hosting sites
     * The upstream uses minor hosting site, it can't migrate to the new rule until uscan supports
   * It may lack the functionality in contrast to existing rules
   * Traditinal and new style are needed to maitain
-
-= Cons
-
-* for maintainer
-  * It needs to update existing d/watch if you want
 
 = Experiments
 
@@ -504,7 +499,7 @@
   * The typical use case
 * (('del:New rule for OSDN'))
   * The minior use case
-  * It needs more work to verify (Currently dehs output is broken)
+  * It needs more work (Currently in modified version, dehs output is broken)
 
 = The new rule for GitHub
 

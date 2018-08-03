@@ -362,7 +362,7 @@
 = These graphs show
 
 * 84% source packages already support d/watch.
-* It seems that there is a room for improvement for top 5 hosting sites
+* It seems that there is a room for optimizing for top 5 hosting sites
 
 = What option is frequently used?
 
@@ -425,8 +425,7 @@
   * Top 5 upstream hosting sites occupy 58%
   * Opts option usage is very limited
 * The estimations
-  * We can simplify d/watch for specific sites
-TODO:
+  * We can simplify d/watch by dropping support for not frequently used option
 
 = Required information?
 

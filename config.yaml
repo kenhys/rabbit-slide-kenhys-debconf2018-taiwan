@@ -1,16 +1,16 @@
 ---
-id: debconf18-rethinking-of-debian-watch
-base_name: presentation
+id: debconf18
+base_name: rethinking-of-debian-watch
 tags:
 - rabbit
 - debconf18
 - debian/watch
 - uscan
-presentation_date: 
+presentation_date: 2018-08-03
 version: 2018.08.03.1
 licenses: 
 - CC-BY-SA-4.0
-slideshare_id:  kenhys
+slideshare_id:
 speaker_deck_id: 
 youtube_id: 
 author:

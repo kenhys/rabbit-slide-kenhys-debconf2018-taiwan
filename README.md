@@ -1,4 +1,4 @@
-# rabbit-slide-kenhys-debconf2018-taiwan
+# Rethinking of debian/watch rule
 
 This is a presentation for DebConf18 which is held at Hsinchu, Taiwan.
 
